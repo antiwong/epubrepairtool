@@ -1,0 +1,92 @@
+EPUB Repair Report
+==================================================
+
+Summary:
+  - breaks.normalized_scene_breaks: 0
+  - css.modified_properties: 0
+  - css.removed_properties: 0
+  - headings.converted_fake_headings: 0
+  - headings.fixed_nesting: 0
+  - images.added_alt: 19
+  - lists.converted_paragraphs: 0
+  - paragraphs.converted_divs: 3
+  - paragraphs.removed_br_breaks: 8
+
+Total files modified: 22
+
+Changes by file:
+
+  /var/folders/rt/55d6zfcs5x15wr_x7gy311fw0000gn/T/tmpeziyj1yq/content/calibre_title_page.html:
+    - Converted 1 divs, removed 0 <br/> tags
+
+  /var/folders/rt/55d6zfcs5x15wr_x7gy311fw0000gn/T/tmpeziyj1yq/content/purpose driven life_split_1.html:
+    - Added 1 alt attributes
+
+  /var/folders/rt/55d6zfcs5x15wr_x7gy311fw0000gn/T/tmpeziyj1yq/content/purpose driven life_split_13.html:
+    - Converted 3 divs, removed 0 <br/> tags
+    - Error processing: Element is not a child of this node.
+    - Added 4 alt attributes
+
+  /var/folders/rt/55d6zfcs5x15wr_x7gy311fw0000gn/T/tmpeziyj1yq/content/purpose driven life_split_16.html:
+    - Converted 3 divs, removed 1 <br/> tags
+
+  /var/folders/rt/55d6zfcs5x15wr_x7gy311fw0000gn/T/tmpeziyj1yq/content/purpose driven life_split_20.html:
+    - Converted 3 divs, removed 2 <br/> tags
+    - Added 5 alt attributes
+
+  /var/folders/rt/55d6zfcs5x15wr_x7gy311fw0000gn/T/tmpeziyj1yq/content/purpose driven life_split_22.html:
+    - Added 6 alt attributes
+
+  /var/folders/rt/55d6zfcs5x15wr_x7gy311fw0000gn/T/tmpeziyj1yq/content/purpose driven life_split_24.html:
+    - Converted 3 divs, removed 3 <br/> tags
+
+  /var/folders/rt/55d6zfcs5x15wr_x7gy311fw0000gn/T/tmpeziyj1yq/content/purpose driven life_split_26.html:
+    - Added 7 alt attributes
+
+  /var/folders/rt/55d6zfcs5x15wr_x7gy311fw0000gn/T/tmpeziyj1yq/content/purpose driven life_split_31.html:
+    - Added 8 alt attributes
+
+  /var/folders/rt/55d6zfcs5x15wr_x7gy311fw0000gn/T/tmpeziyj1yq/content/purpose driven life_split_36.html:
+    - Converted 3 divs, removed 4 <br/> tags
+    - Added 9 alt attributes
+
+  /var/folders/rt/55d6zfcs5x15wr_x7gy311fw0000gn/T/tmpeziyj1yq/content/purpose driven life_split_38.html:
+    - Added 10 alt attributes
+
+  /var/folders/rt/55d6zfcs5x15wr_x7gy311fw0000gn/T/tmpeziyj1yq/content/purpose driven life_split_4.html:
+    - Added 2 alt attributes
+
+  /var/folders/rt/55d6zfcs5x15wr_x7gy311fw0000gn/T/tmpeziyj1yq/content/purpose driven life_split_48.html:
+    - Added 11 alt attributes
+
+  /var/folders/rt/55d6zfcs5x15wr_x7gy311fw0000gn/T/tmpeziyj1yq/content/purpose driven life_split_51.html:
+    - Converted 3 divs, removed 5 <br/> tags
+    - Added 12 alt attributes
+
+  /var/folders/rt/55d6zfcs5x15wr_x7gy311fw0000gn/T/tmpeziyj1yq/content/purpose driven life_split_55.html:
+    - Added 13 alt attributes
+
+  /var/folders/rt/55d6zfcs5x15wr_x7gy311fw0000gn/T/tmpeziyj1yq/content/purpose driven life_split_61.html:
+    - Added 14 alt attributes
+
+  /var/folders/rt/55d6zfcs5x15wr_x7gy311fw0000gn/T/tmpeziyj1yq/content/purpose driven life_split_68.html:
+    - Converted 3 divs, removed 6 <br/> tags
+    - Added 15 alt attributes
+
+  /var/folders/rt/55d6zfcs5x15wr_x7gy311fw0000gn/T/tmpeziyj1yq/content/purpose driven life_split_70.html:
+    - Converted 3 divs, removed 7 <br/> tags
+    - Added 16 alt attributes
+
+  /var/folders/rt/55d6zfcs5x15wr_x7gy311fw0000gn/T/tmpeziyj1yq/content/purpose driven life_split_8.html:
+    - Converted 2 divs, removed 0 <br/> tags
+    - Added 3 alt attributes
+
+  /var/folders/rt/55d6zfcs5x15wr_x7gy311fw0000gn/T/tmpeziyj1yq/content/purpose driven life_split_86.html:
+    - Converted 3 divs, removed 8 <br/> tags
+    - Added 17 alt attributes
+
+  /var/folders/rt/55d6zfcs5x15wr_x7gy311fw0000gn/T/tmpeziyj1yq/content/purpose driven life_split_90.html:
+    - Added 18 alt attributes
+
+  /var/folders/rt/55d6zfcs5x15wr_x7gy311fw0000gn/T/tmpeziyj1yq/content/purpose driven life_split_94.html:
+    - Added 19 alt attributes
